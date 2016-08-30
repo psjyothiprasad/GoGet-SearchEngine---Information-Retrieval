@@ -1,0 +1,1 @@
+<map2{term3:0.3;term4:0.4;},map1{term2:0.2;term1:0.1;}>
